@@ -202,8 +202,8 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = false
-preloader = "images/logo.png"
+enable = true
+preloader = "images/load-38_256.gif"
 
 # cookies
 [params.cookies]

@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-sea.jpg"
+  bg_image_webp : "images/backgrounds/bg-sea.webp"
+  title : "World Class Infrastructure with Impeccable Pedagogy"
+  content : "We offer the best infrastructure in Marine Colleges of Eastren India. Let us get you started on your career at Sea."
+  button:
+    enable : true
+    label : "Come Study with us"
+    link : "#contact"

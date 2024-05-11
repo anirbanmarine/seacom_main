@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Courses Offered
+  service_item :
+    # service item loop
+    - name : General Purpose Crew 
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : A course designed for the crew of todays merchant ships , ready to take the challenges of tomorrow.Course Duration-6 months.
+      
+    # service item loop
+    - name : Bachelor of Nautical Science 
+      icon : images/bns.svg
+      content : For the Officers and Masters of the world's ships. Course Duration-3 years. Candidates selected by the shipping companies are welcome.
+      
+    # service item loop
+    - name : Electro Technical Officer
+      icon : ti-plug # themify icon pack : https://themify.me/themify-icons
+      content : For an Exciting career as an Electro Technical Officer on board the ships of the Merchant Navy. Course Duration-4 months
+      
+    # service item loop
+    - name : ECDIS(STCW)
+      icon : ti-desktop # themify icon pack : https://themify.me/themify-icons
+      content : A Post-Sea course for Electronic Chart Display Information System. This is essential for aspiring Second Mates. Course Duration 5 days
+      
+    # service item loop
+    - name : STSDSD(STCW)
+      icon : ti-lock # themify icon pack : https://themify.me/themify-icons
+      content : A Post-Sea course for Security Training for Seafarers with Designated Security Duties. A mandatory Course for All Seafarers.
+      
+    # service item loop
+    - name : AFF(STCW)
+      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
+      content : A Post -Sea course for Advanced Fire Fighting . A mandatory course for all support level officers.

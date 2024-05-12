@@ -46,6 +46,7 @@
       "ul"
     ],
     "classes": [
+      "../images/bns.svg",
       "about",
       "about-2",
       "active",
@@ -111,7 +112,6 @@
       "highlight",
       "icon-box",
       "image-popup",
-      "images/bns.svg",
       "img-fluid",
       "item",
       "justify-content-center",
@@ -160,6 +160,7 @@
       "portfolio-filter",
       "post-block",
       "post-single-content",
+      "preloader",
       "price-item",
       "price-title",
       "pricing",

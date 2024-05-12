@@ -10,7 +10,7 @@ service:
       
     # service item loop
     - name : Bachelor of Nautical Science 
-      icon : images/bns.svg
+      icon : ../images/bns.svg
       content : For the Officers and Masters of the world's ships. Course Duration-3 years. Candidates selected by the shipping companies are welcome.
       
     # service item loop

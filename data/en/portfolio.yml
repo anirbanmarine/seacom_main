@@ -5,24 +5,24 @@ portfolio:
   portfolio_item :
     # portfolio item loop
     - name : Academic Block
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
+      image : images/portfolio/building.jpg
+      image_webp : images/portfolio/building.webp
       categories : ["Infrastructure"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # portfolio item loop
-    - name : Classrooms
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+    - name : Hostel
+      image : images/portfolio/hostel.jpg
+      image_webp : images/portfolio/hostel.webp
       categories : ["Infrastructure","Academics"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # portfolio item loop
-    - name : Training Mockups
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
+    - name : Swimming Pool
+      image : images/portfolio/pool.jpg
+      image_webp : images/portfolio/pool.webp
       categories : ["Infrastructure", "Training"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"

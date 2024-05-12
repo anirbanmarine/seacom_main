@@ -163,7 +163,10 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #052d63;
+  /*background-color: #052d63;*/
+  background-size: cover;
+  background-attachment: fixed;
+  background-image: url("../images/backgrounds/bg-foam.webp");
 }
 
 .bg-dark {
@@ -548,6 +551,7 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
+  
   background: #0E6BA8;
   padding: 30px;
   border-bottom: 2px solid transparent;
@@ -610,6 +614,8 @@ a:hover {
 .about .block .icon-box h3 {
   color: #afbac4;
 }
+
+
 
 /*=================================================================
   About us 2 section
@@ -947,6 +953,7 @@ a:hover {
   Services section
 ==================================================================*/
 .service-block {
+  background-color:aquamarine;
   padding: 60px 20px;
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);

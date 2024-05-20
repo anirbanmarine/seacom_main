@@ -1,6 +1,6 @@
 ################################# Service #################################
 service:
-  enable : true
+  enable : false
   title : Courses Offered
   service_item :
     # service item loop
@@ -10,8 +10,9 @@ service:
       
     # service item loop
     - name : Bachelor of Nautical Science 
-      icon : ../images/bns.svg
-      content : For the Officers and Masters of the world's ships. Course Duration-3 years. Candidates selected by the shipping companies are welcome.
+    # icon : ../images/bns.svg
+      
+      content : ![captain hat](images/bns.svg)For the Officers and Masters of the world's ships. Course Duration-3 years. Candidates selected by the shipping companies are welcome.
       
     # service item loop
     - name : Electro Technical Officer

@@ -1,0 +1,76 @@
+#################################### portfolio ###############################
+courses:
+  enable : true
+  title : Courses Offered
+  portfolio_item :
+    # portfolio item loop
+    - name : General Purpose Rating
+      image : images/portfolio/building.jpg
+      image_webp : images/portfolio/building.webp
+      categories : ["Pre-Sea"," 6 months"]
+      content : A 6 months course for training to become the Ship's Crew of Tomorrow.
+      link : "https://api.whatsapp.com/send?phone=9830498330&text=I%20want%20to%20book%20a%20General%20Purpose%20Rating%20course."
+      
+    # portfolio item loop
+    - name : Hostel
+      image : images/portfolio/hostel.jpg
+      image_webp : images/portfolio/hostel.webp
+      categories : ["Infrastructure","Academics"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+      
+    # portfolio item loop
+    - name : Swimming Pool
+      image : images/portfolio/pool.jpg
+      image_webp : images/portfolio/pool.webp
+      categories : ["Infrastructure", "Training"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Library
+      image : images/portfolio/portfolio-4.jpg
+      image_webp : images/portfolio/portfolio-4.webp
+      categories : ["Academics", "Infrastructure"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Training Pool
+      image : images/portfolio/portfolio-5.jpg
+      image_webp : images/portfolio/portfolio-5.webp
+      categories : ["Infrastructure","Training"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Fire Safety Training Area
+      image : images/portfolio/portfolio-6.jpg
+      image_webp : images/portfolio/portfolio-6.webp
+      categories : ["Infrastructure","Training"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Mechanical Workshop
+      image : images/portfolio/portfolio-7.jpg
+      image_webp : images/portfolio/portfolio-7.webp
+      categories : ["Infrastructure","Training"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : Cookery Training Area
+      image : images/portfolio/portfolio-8.jpg
+      image_webp : images/portfolio/portfolio-8.webp
+      categories : ["Infrastructure","Training"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+      
+    # portfolio item loop
+    - name : High Voltage Laboratory
+      image : images/portfolio/portfolio-2.jpg
+      image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Infrastructure","Training"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"

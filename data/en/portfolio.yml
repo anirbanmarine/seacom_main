@@ -7,16 +7,16 @@ portfolio:
     - name : Academic Block
       image : images/portfolio/building.jpg
       image_webp : images/portfolio/building.webp
-      categories : ["Infrastructure"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["Infrastructure","Academics"]
+      content : The Sanctum of the College where the tomorrow's citzens are built
       link : ""
       
     # portfolio item loop
     - name : Hostel
       image : images/portfolio/hostel.jpg
       image_webp : images/portfolio/hostel.webp
-      categories : ["Infrastructure","Academics"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["Infrastructure"]
+      content : A World class accommodation to cater to the needs of the students.
       link : ""
       
     # portfolio item loop
@@ -24,53 +24,53 @@ portfolio:
       image : images/portfolio/pool.jpg
       image_webp : images/portfolio/pool.webp
       categories : ["Infrastructure", "Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : A Training Swimming Pool approved by the Director General of Shipping.
       link : "#"
       
     # portfolio item loop
-    - name : Library
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
+    - name : Reading Room/Conference Room
+      image : images/portfolio/CONFERENCE_RM.jpg
+      image_webp : images/portfolio/CONFERENCE_RM.webp
       categories : ["Academics", "Infrastructure"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : A well lighted and quiet reading room for all the students.
       link : "#"
       
     # portfolio item loop
-    - name : Training Pool
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
+    - name : WORKSHOP
+      image : images/portfolio/MEK_WORKSHOP.jpg
+      image_webp : images/portfolio/MEK_WORKSHOP.webp
       categories : ["Infrastructure","Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : A WORKSHOP for all the practical training needs.
       link : "#"
       
     # portfolio item loop
     - name : Fire Safety Training Area
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
+      image : images/portfolio/AFF_TRG_AREA.jpg
+      image_webp : images/portfolio/AFF_TRG_AREA.webp
       categories : ["Infrastructure","Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : A well equipped fire safety training area approved by the Director General of Shipping.
       link : "#"
       
     # portfolio item loop
-    - name : Mechanical Workshop
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
+    - name : Playground
+      image : images/portfolio/playground.jpg
+      image_webp : images/portfolio/playground.webp
       categories : ["Infrastructure","Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Sports is an essential part of a healthy life and training. 
       link : "#"
       
     # portfolio item loop
     - name : Cookery Training Area
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
+      image : images/portfolio/CCMC_LAB.jpg
+      image_webp : images/portfolio/CCMC_LAB.webp
       categories : ["Infrastructure","Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Bulk food production lab is the main area where cookery training is carried out by our experienced chef.
       link : "#"
       
     # portfolio item loop
     - name : High Voltage Laboratory
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+      image : images/portfolio/HIGH_VOLTAGE1.JPG
+      image_webp : images/portfolio/HIGH_VOLTAGE1.webp
       categories : ["Infrastructure","Training"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : HIGH VOLTAGE training LAB for ETOs of tomorrow.
       link : "#"
